@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Quest of Dungeons</title>
+	<release-date>25 March, 2014 (PC/iOS)
+	| 04 September, 2015 (Xbox One)
+	| 29 September, 2016 (Wii/Nintendo 3DS)
+	| 17 January, 2017 (PS4)
+	| 14 September, 2017 (Switch)
+	</release-date>
+	<release-date></release-date>
+	<website>https://www.questofdungeons.com/</website>
+	<press-can-request-copy>true</press-can-request-copy>
+	<monetization-permission>monetize</monetization-permission>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux</name>
+			<link>https://www.questofdungeons.com#purchase</link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/270050</link>
+		</platform>
+		<platform>
+			<name>Xbox One</name>
+			<link>https://store.xbox.com/en-US/Xbox-One/Games/Quest-of-Dungeons/c5fc3166-ea13-4a23-becb-9e52ed638652</link>
+		</platform>
+		<platform>
+			<name>Playstation 4</name>
+			<link>https://www.playstation.com/en-us/games/quest-of-dungeons-ps4/</link>
+		</platform>
+		<platform>
+			<name>Switch</name>
+			<link>https://www.nintendo.com/games/detail/quest-of-dungeons-switch</link>
+		</platform>
+		<platform>
+			<name>Nintendo 3DS</name>
+			<link>https://www.nintendo.com/games/detail/quest-of-dungeons-3ds</link>
+		</platform>
+		<platform>
+			<name>Wii U</name>
+			<link>https://www.nintendo.com/games/detail/quest-of-dungeons-wii-u</link>
+		</platform>
+			<platform>
+			<name>Apple App Store</name>
+			<link>https://itunes.apple.com/app/id698726956/</link>
+		</platform>
+		<platform>
+			<name>Google Play</name>
+			<link>https://play.google.com/store/apps/details?id=com.davidamador.quest_of_dungeons/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Switch/Xbox One/PS4/Wii U/3DS</currency>
+			<value>$8.99</value>			
+		</price>
+		<price>
+			<currency>PC/Mac/Linux</currency>
+			<value>$4.99</value>
+		</price>
+		<price>
+			<currency>iOS/Android</currency>
+			<value>$1.99</value>
+		</price>
+		
+	</prices>
+
+	<description>
+	Quest of Dungeons is a turn based dungeon crawler game, a roguelike.
+An evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him. The dungeons layout is procedural so you won't find items/enemies in the same place each time you play.
+	</description>
+	
+	<history>
+	An unspecific evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him. By playing as either a Warrior, a Wizard, a Assassin or a Shaman you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops. 
+The entire game is procedural so you won't find items/enemies in the same place each time you play. 
+	</history>
+
+	<features>
+		<feature>Procedural dungeons</feature>
+		<feature>Procedural weapons</feature>
+		<feature>Boss encounters</feature>
+		<feature>Quests</feature>
+		<feature>4 Difficulty levels</feature>
+		<feature>Permadeath - Once you die, game over man, game over! </feature>
+		<feature>Shop - buy and sell items/weapons</feature>
+		<feature>Leaderboards - compare your Adventure points with the community</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>PC Trailer</name>
+			<youtube>2PSnXkMcnSA</youtube>
+		</trailer>
+		<trailer>
+			<name>Playstation 4 Gameplay Trailer</name>
+			<youtube>xr6y6g4tE0Q</youtube>
+		</trailer>
+		<trailer>
+			<name>Xbox One Trailer</name>
+			<youtube>leD7XnqZqec</youtube>
+		</trailer>
+		<trailer>
+			<name>Nintendo Switch Announcement</name>
+			<youtube>Yy1CFtM2MpA</youtube>
+		</trailer>
+		<trailer>
+			<name>Story Video</name>
+			<youtube>md0W9Lrn6fY</youtube>
+		</trailer>
+	</trailers>
+	
+	<quotes>
+	<quote>
+		<description>Its quality design makes it easy to pick up and play for minutes or hours at a time thanks to the unique simultaneous turn-based combat and procedurally generated dungeons.</description>
+			<name>Liam Doolan</name>
+			<website>Nintendo Life</website>
+			<link>https://www.nintendolife.com/reviews/wiiu-eshop/quest_of_dungeons</link>
+		</quote>
+		<quote>
+			<description>Sending you back to the golden age of gaming[...]</description>
+			<name>Urban</name>
+			<website>Xbox Tavern</website>
+			<link>https://xboxtavern.com/all-review-list/quest-of-dungeons/</link>
+		</quote>
+		<quote>
+			<description>Broke a statue. Drop chicken leg. 10/10</description>
+			<name>rena</name>
+			<website>Steam</website>
+			<link>https://steamcommunity.com/profiles/76561198024951103/recommended/270050/</link>
+		</quote>
+		<quote>
+			<description>4/5 Stars - Quest of Dungeons is a very good roguelike and a fun game.</description>
+			<name>Shaun Musgrave</name>
+			<website>TouchArcade</website>
+			<link>https://toucharcade.com/2014/04/03/quest-of-dungeons-review/</link>
+		</quote>
+		<quote>
+			<description>4/5 - SARCASTICALLY DIFFICULT</description>
+			<name>John Burnor</name>
+			<website>148Apps</website>
+			<link>https://www.148apps.com/reviews/quest-of-dungeons-review/</link>
+		</quote>
+		<quote>
+			<description>Try it</description>
+			<name>Matthew Smail</name>
+			<website>XBLA Fans</website>
+			<link>https://www.xblafans.com/quest-of-dungeons-review-run-the-procedural-gauntlet-83336.html</link>
+		</quote>		
+	</quotes>
+	
+	<additionals>
+		
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>David Amador</person>
+			<role>Business &amp; Development, Upfall Studios</role>
+		</credit>
+		<credit>
+			<person>Oryx</person>
+			<role>Designer, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Aaron Krogh</person>
+			<role>Music, Freelancer</role>
+		</credit>
+		<credit>
+			<person>BoxCat Games</person>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>Simone Morelli</person>
+			<role>Italian Localization</role>
+		</credit>
+	</credits>
+</game>

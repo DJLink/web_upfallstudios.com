@@ -1,0 +1,161 @@
+@font-face{
+	font-family:"colabreg";     
+	src:url('fonts/colabreg-webfont.eot');     
+	src:url('fonts/colabreg-webfont.eot?#iefix') format('embedded-opentype'),         
+		 url('fonts/colabreg-webfont.woff') format('woff'),         
+		 url('fonts/colabreg-webfont.ttf') format('truetype'),         
+		 url('fonts/colabreg-webfont.svg#ColabReg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+		
+body {
+	margin : 0;
+	padding : 0;
+	font: 14px/1.7 'Helvetica Neue Light', HelveticaNeue-Light, 'Helvetica Neue', Helvetica, 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+	font-weight:lighter;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: 100%;
+	color : #272727;
+	font-size : 16px;
+}
+img {
+	border : none;
+}
+a {
+	color : #ef3d42;
+	text-decoration : none;
+}
+a:hover {
+	text-decoration : underline;
+}
+
+.content {
+	width : 860px;
+	margin : auto;
+	position : relative;
+}
+.content img.background {
+	vertical-align : bottom;
+}
+.content .text {
+	text-align : right;
+	position : absolute;
+	right : 0px;
+	bottom : 30px;
+	width : 500px;
+}
+
+.content .text_centered {
+		text-align : right;
+	position : absolute;
+	right : 0px;
+	bottom : 30px;
+	width : 500px;
+}
+.section {
+	padding : 40px 0px;
+	position : relative;
+}
+
+.header {
+	position : fixed;
+	width : 100%;
+	z-index : 99;
+	background-color : #222222;
+	colo:#eeeeee;
+	height : 41px;
+}
+a.twitter, a.blog {
+	display : inline-block;
+	zoom : 1;
+	float : right;
+	width : 41px;
+	height : 41px;
+}
+ a.blog {
+	background : url("images/blog.png");
+}
+ a.blog:hover {
+	background : url("images/blog_hover.png");
+}
+ a.twitter {
+	background : url("images/twitter.png");
+}
+ a.twitter:hover {
+	background : url("images/twitter_hover.png");
+}
+.section.logo {
+	padding-top : 60px;
+	padding-bottom : 70px;
+	text-align : content;
+	color : #272727;
+	position : relative;
+	margin : auto;
+	width : 187px;
+	height : 104px;
+}
+
+.section.logo img {
+	position : absolute;
+	left : 0px;
+	top : 47px;
+	width: 187px;
+}
+
+.section.logo h1 {
+	margin-top : 50px;
+	margin-bottom : 5px;
+}
+
+.section.qod {
+	cursor : pointer;
+	color : #999999;
+	padding-top : 0px;
+	padding-bottom : 0px;
+	background-color : #000000;
+}
+.section.qod a {
+	color : #ffffff;
+}
+.section.qod .text {
+	left : 0px;
+	text-align : left;
+	margin-left:40px;
+}
+
+.section.newsletter {
+	cursor : pointer;
+	color : #ff8261;
+	padding-top : 0px;
+	padding-bottom : 0px;
+	background-color : #000000;
+	text-align : right;
+}
+
+.section.about {
+    font:20px colabreg,HelveticaNeue-Light,'Helvetica Neue',Helvetica,'Lucida Sans Unicode','Lucida Grande',Arial,sans-serif;
+	background-color : white;
+	padding-bottom : 50px;
+	color : #6c6a67;
+	margin-left:40px;
+}
+.section.about h1{
+	margin : 0px;
+}
+
+.section.about .right {
+	width : 280px;
+	float : right;
+	margin-left : 30px;
+}
+
+.footer {
+	color : #eeeeee;
+	background-color : #222222;
+	padding-top : 1px;
+	padding-bottom : 1px;
+	height : 170px;
+}
+
