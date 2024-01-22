@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<company>	
+	<title>Upfall Studios</title>
+	<founding-date>July 06, 2014</founding-date>
+	<website>https://www.upfallstudios.com/</website>
+	<based-in>Portugal</based-in>
+	
+	<press-contact>david@upfallstudios.com</press-contact>
+	<socials>
+		<social>
+			<name>twitter.com/DJ_Link</name>
+			<link>https://www.twitter.com/DJ_Link</link>
+		</social>
+		<!--social>
+			<name>Skype</name>
+			<link>callto:MySkypeName</link>
+		</social-->
+	</socials>
+
+	<description>	
+		Upfall Studios is an indie game studio based in Portugal, making games the old fashioned way, a team of one person, a few ideas, and a lot of "love". 
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>The core team is one person, but that does not mean he works alone all the time, partnering with others (designers, musicians, etc) to create fun and creative games with that special touch. Across all projects we worked in games for a wide range of platforms, including Windows, Mac, Linux, Nintendo Switch, Nintendo 3DS, Wii U, PS4, Xbox One, Xbox360, iOS and Android.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Quest of Dungeons</name>
+			<youtube>2PSnXkMcnSA</youtube>
+		</trailer>
+		<trailer>
+			<name>Microsoft GameDev Camp talk 2014</name>
+			<youtube>M2EFJRviOpU</youtube>
+		</trailer>
+	</trailers>
+	
+	
+	
+	<quotes>		
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<!--additional>
+			<title>Developer Blog</title>
+			<description>You can find David's development blog at </description>
+			<link>www.david-amador.com</link>
+		</additional-->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>David Amador</person>
+			<website>https://www.twitter.com/DJ_Link</website>
+			<role>Programming, Game Design &#38; Business</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>david@upfallstudios.com</mail>
+		</contact>
+		<!--contact>
+			<name>Twitter</name>
+			<link>https://twitter.com/UpfallStudios</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>https://facebook.com/UpfallStudios</link>
+		</contact-->
+		<contact>
+			<name>Web</name>
+			<link>upfallstudios.com</link>
+		</contact>
+	</contacts>
+
+	<analytics>UA-2728367-11</analytics>
+</company>
