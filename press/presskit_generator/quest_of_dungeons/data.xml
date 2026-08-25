@@ -8,6 +8,7 @@
 		<release-date>29 September, 2016 (Wii U/Nintendo 3DS)</release-date>
 		<release-date>17 January, 2017 (PS4)</release-date>
 		<release-date>14 September, 2017 (Switch)</release-date>
+		<release-date>29 August, 2026 (Switch 2)</release-date>
 	</release-dates>
 	<website>https://www.questofdungeons.com/</website>
 	<press-can-request-copy>true</press-can-request-copy>
@@ -33,6 +34,10 @@
 		<platform>
 			<name>Switch</name>
 			<link>https://www.nintendo.com/games/detail/quest-of-dungeons-switch</link>
+		</platform>
+		<platform>
+			<name>Switch 2</name>
+			<link>https://www.nintendo.com/us/store/products/quest-of-dungeons-switch-2/</link>
 		</platform>
 		<platform>
 			<name>Nintendo 3DS</name>
